@@ -1,7 +1,7 @@
 # Overview of Dimentionality Reduction Methods
 
 ## Contents
-The git repository contains:
+The [git repository](https://github.com/TheCoolestMango/ML-project) contains:
 * A ```.ipynb``` notebook with full contents of the project-tutorial
 * Same tutorial in ```.html``` and ```.pdf``` formats
 
